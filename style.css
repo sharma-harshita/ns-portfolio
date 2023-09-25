@@ -1,17 +1,23 @@
 .footer-section{
     display: flex;
     justify-content: space-around;
+    color: white;
 }
 
 .footer-section-element{
     height: 200px;
     width: 40%;
+    padding: 20px;
 }
 
 .box1{
-    background-color: red;
+    background-color: green;
 }
 
 .box2{
-    background-color: green;
+    background-color: maroon;
+}
+
+.footer-section-heading{
+    font-size: 45px;
 }
